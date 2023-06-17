@@ -1,6 +1,7 @@
 from kivymd.app import MDApp
 from kivy.lang import Builder
 
+
 class Test(MDApp):
     def build(self):
         self.title = 'Programming'
